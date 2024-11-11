@@ -1,0 +1,1 @@
+# django_skn_insurance_management_system
